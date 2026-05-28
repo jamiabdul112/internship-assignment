@@ -1,5 +1,8 @@
 # LearnFlow — Student Learning Dashboard
 
+🚀 **Live Demo:** https://your-app.vercel.app
+🔗 **GitHub:** https://github.com/jamiabdul112/internship-assignment
+
 A high-fidelity student dashboard built with Next.js, Supabase, Tailwind CSS, and Framer Motion.
 
 ## Tech Stack
