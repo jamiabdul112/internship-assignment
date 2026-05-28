@@ -29,7 +29,7 @@ export default function Sidebar() {
           >
             <GraduationCap size={14} color="white" />
           </div>
-          <span className="font-semibold text-sm">LearnFlow</span>
+          <span className="font-semibold text-sm">Next-gen Learning</span>
         </div>
 
         {/* Nav links */}
